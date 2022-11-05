@@ -118,13 +118,28 @@ td:last-child {
     line-height: 12px;
     color: #000000;
 }
-.bt {
+button {
     background-color: #FF7F09;
     width: 80px;
     height: 25px;
     border: none;
     cursor: pointer;
     font-weight:300 ;
+}
+.clr1 {
+    background-color: red;
+}
+.clr2 {
+    background-color: blue;
+}
+.clr3 {
+    background-color: yellow;
+}
+.clr4 {
+    background-color: pink;
+}
+.clr5 {
+    background-color: violet;
 }
 .end-line {
     position: absolute;
@@ -141,7 +156,6 @@ td:last-child {
     left: 140px;
     width: 700px;
     display: flex;
-    cursor: pointer;
 }
 .bottom-Decoration {
     width: 90px;
@@ -159,6 +173,7 @@ td:last-child {
     font-size: 19px;
     line-height: 25px;
     color: #9b9b9b;
+    cursor: pointer;
 }
 .bottom-textSignature {
     position: absolute;
@@ -170,5 +185,6 @@ td:last-child {
     font-family: Dancing Script,sans-serif;
     font-weight: 580;
     font-size: 20px;
+    cursor: pointer;
 }
 
