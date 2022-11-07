@@ -27,4 +27,3 @@ arrText = [
         signature.innerHTML = item.author;
         
     }
-    console.log(footer);
